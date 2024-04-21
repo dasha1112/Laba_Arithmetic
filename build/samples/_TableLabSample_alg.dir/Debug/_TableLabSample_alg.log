@@ -1,0 +1,17 @@
+﻿  _TableLabSample_alg.cpp
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(160,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(154): message : во время компиляции функции-члена класс шаблон "void Arithmetic<std::string,TPolinom>::CalculatePolynoms(std::string)"
+D:\Laba_alg\Laba_Arithmetic\samples\_TableLabSample_alg.cpp(38): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Arithmetic<std::string,TPolinom>::CalculatePolynoms(std::string)"
+D:\Laba_alg\Laba_Arithmetic\samples\_TableLabSample_alg.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Arithmetic<std::string,TPolinom>"
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(114,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(108): message : во время компиляции функции-члена класс шаблон "std::string Arithmetic<std::string,TPolinom>::ToPostfix(std::string)"
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(157): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string Arithmetic<std::string,TPolinom>::ToPostfix(std::string)"
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(44): message : во время компиляции функции-члена класс шаблон "Arithmetic<std::string,TPolinom>::Arithmetic(std::string)"
+D:\Laba_alg\Laba_Arithmetic\samples\_TableLabSample_alg.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "Arithmetic<std::string,TPolinom>::Arithmetic(std::string)"
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(233,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(229): message : во время компиляции функции-члена класс шаблон "TPolinom Arithmetic<std::string,TPolinom>::Split(void)"
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(53): message : выполняется компиляция ссылки на экземпляр шаблон функции "TPolinom Arithmetic<std::string,TPolinom>::Split(void)"
+D:\Laba_alg\Laba_Arithmetic\include\TTable.h(151): warning C4715: TTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,TPolinom>::Find: значение возвращается не при всех путях выполнения
+D:\Laba_alg\Laba_Arithmetic\include\TTree.h(169): warning C4715: TTreeTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,TPolinom>::Find: значение возвращается не при всех путях выполнения
+D:\Laba_alg\Laba_Arithmetic\include\TArithmetic.h(87): warning C4715: Arithmetic<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,TPolinom>::Execute: значение возвращается не при всех путях выполнения
+  _TableLabSample_alg.vcxproj -> D:\Laba_alg\Laba_Arithmetic\build\bin\_TableLabSample_alg.exe
