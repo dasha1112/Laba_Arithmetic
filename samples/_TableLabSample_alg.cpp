@@ -29,7 +29,7 @@ int main()
 
 	// Добавляем полиномы в таблицу
 	arithmetic.AddPolinom("pol19=2x^2y^2z^1+2x^2+3");
-	arithmetic.AddPolinom("pol7=2x^2y^2+2x^2");
+	arithmetic.AddPolinom("pol7=5x^2y^2+2x^2");
 	arithmetic.AddPolinom("pol15=2x^2y^1+2x^2-3x^1");
 	arithmetic.AddPolinom("pol20=2x^2+2x^1");
 	arithmetic.AddPolinom("pol1=2x^2");
@@ -41,7 +41,7 @@ int main()
 	arithmetic.CalculatePolynoms("pol14=pol22+pol3");
 	arithmetic.CalculatePolynoms("pol2=pol20+pol3");
 	arithmetic.CalculatePolynoms("pol5=pol1-pol20-pol14");
-	arithmetic.CalculatePolynoms("pol23=pol1*pol1");
+	arithmetic.CalculatePolynoms("pol23=pol7*pol20");
 	arithmetic.CalculatePolynoms("pol13=3pol10-pol1");
 	/*arithmetic.CalculatePolynoms("pol55=pol20*pol7");
 	arithmetic.CalculatePolynoms("pol82=11pol10+pol22");

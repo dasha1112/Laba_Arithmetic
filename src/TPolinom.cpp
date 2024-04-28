@@ -123,7 +123,7 @@ TPolinom TPolinom::operator*(TPolinom& p)
     TNode<TMonom>* j = p.begin;
     while (j != nullptr)
     {
-      TMonom* tempMonom = new TMonom(i->GetData()->GetC() * j->GetData()->GetC(), i->GetData()->GetDegrees() * j->GetData()->GetDegrees());
+      TMonom* tempMonom = new TMonom(i->GetData()->GetC() * j->GetData()->GetC(), i->GetData()->GetDegrees() + j->GetData()->GetDegrees());
       res.PushEnd(tempMonom);
       j = j->GetNext();
     }

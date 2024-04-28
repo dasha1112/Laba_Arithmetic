@@ -110,11 +110,13 @@ template <class T>
 TVector<T> TVector<T>::operator +(TVector<T>& _v)
 {
   TVector<T> res;
-  res.length = MIN(length, _v.length);
+  res.length = (length > _v.length) ? length : _v.length; // Choose the maximum length
   res.x = new T[res.length];
   for (int i = 0; i < res.length; i++)
   {
-    res.x[i] = x[i] + _v.x[i];
+    T element1 = (i < length) ? x[i] : 0; // Use 0 if index is out of range for the first vector
+    T element2 = (i < _v.length) ? _v.x[i] : 0; // Use 0 if index is out of range for the second vector
+    res.x[i] = element1 + element2;
   }
   return res;
 }
