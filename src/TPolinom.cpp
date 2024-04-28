@@ -114,7 +114,7 @@ TPolinom TPolinom::operator-(TPolinom& p)
   return res;
 }
 
-TPolinom TPolinom::operator*(TPolinom& p)
+TPolinom TPolinom::operator*(TPolinom& p) // оператор умножения
 {
   TPolinom res;
   TNode<TMonom>* i = begin;

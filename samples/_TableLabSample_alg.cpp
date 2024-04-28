@@ -38,7 +38,7 @@ int main()
 	arithmetic.CalculatePolynoms("pol11=pol19+pol7");
 	arithmetic.CalculatePolynoms("pol3=2pol10-pol7");
 	arithmetic.CalculatePolynoms("pol22=2pol11-pol3");
-	arithmetic.CalculatePolynoms("pol14=pol22+pol3");
+	arithmetic.CalculatePolynoms("pol14=pol22+pol1");
 	arithmetic.CalculatePolynoms("pol2=pol20+pol3");
 	arithmetic.CalculatePolynoms("pol5=pol1-pol20-pol14");
 	arithmetic.CalculatePolynoms("pol23=pol7*pol20");

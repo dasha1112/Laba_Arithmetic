@@ -80,10 +80,10 @@ TMonom TMonom::operator- (TMonom& p)
 
 TMonom TMonom::operator*(TMonom& p)
 {
-  /*if (GetDimension() != p.GetDimension())
+  if (GetDimension() != p.GetDimension())
   {
     throw "Ошибка";
-  }*/
+  }
   TMonom m = *this;
   m.C = C * p.C;
   for (int i = 0; i < GetDimension(); i++) 

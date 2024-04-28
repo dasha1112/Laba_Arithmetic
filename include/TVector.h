@@ -114,8 +114,8 @@ TVector<T> TVector<T>::operator +(TVector<T>& _v)
   res.x = new T[res.length];
   for (int i = 0; i < res.length; i++)
   {
-    T element1 = (i < length) ? x[i] : 0; // Use 0 if index is out of range for the first vector
-    T element2 = (i < _v.length) ? _v.x[i] : 0; // Use 0 if index is out of range for the second vector
+    T element1 = (i < length) ? x[i] : 0; 
+    T element2 = (i < _v.length) ? _v.x[i] : 0; 
     res.x[i] = element1 + element2;
   }
   return res;
