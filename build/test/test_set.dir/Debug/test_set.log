@@ -1,0 +1,177 @@
+﻿  test_table.cpp
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2281,14): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(24): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2281,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2281,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2282,38): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(24): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2282,44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2282,44): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2286,15): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(24): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2286,21): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2286,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2286,21): error C2373: testing::internal::vector: переопределение; различные модификаторы типа
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2281): message : см. объявление "testing::internal::vector"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9690,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9695,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9700,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9705,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9710,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9715,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9722,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9729,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9736,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9743,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9751,18): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9953,16): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9953,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9953,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9953,22): error C2378: testing::internal::vector: переопределение; символ нельзя перегрузить typedef
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(2281): message : см. объявление "testing::internal::vector"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9977,57): error C2061: синтаксическая ошибка: идентификатор "Strings"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9983): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::TuplePrefixPrinter<N>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(9992,55): error C2061: синтаксическая ошибка: идентификатор "Strings"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10008,57): error C2061: синтаксическая ошибка: идентификатор "Strings"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10029,9): error C2061: синтаксическая ошибка: идентификатор "UniversalTersePrintTupleFieldsToStrings"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10029,69): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10029,69): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10284,33): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10347): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::ValuesInIteratorRangeGenerator<T>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10284,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10284,1): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10289,23): error C2653: ContainerType: не является именем класса или пространства имен
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10329): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::ValuesInIteratorRangeGenerator<T>::Iterator"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10288,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10289,53): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "iterator"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10289,53): error C3646: iterator: неизвестный спецификатор переопределения
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10288,1): error C2059: синтаксическая ошибка: )
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10334,14): error C2653: ContainerType: не является именем класса или пространства имен
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10334,44): error C3646: iterator_: неизвестный спецификатор переопределения
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10334,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10346,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10346,23): error C3646: container_: неизвестный спецификатор переопределения
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10538,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10549): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::ParameterizedTestCaseInfo<TestCase>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10538,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10538,1): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10541,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10541,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10542,1): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10545,21): error C3646: tests_: неизвестный спецификатор переопределения
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10545,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10546,26): error C3646: instantiations_: неизвестный спецификатор переопределения
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10546,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10608,18): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10608,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10608,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10608,78): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10610,25): error C3646: test_case_infos_: неизвестный спецификатор переопределения
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10610,41): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10561,10): error C2653: TestCaseInfoContainer: не является именем класса или пространства имен
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10561,47): error C2065: test_case_infos_: необъявленный идентификатор
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10561,45): error C2512: std::iterator: нет подходящего конструктора по умолчанию
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xutility(6048,54): message : см. объявление "std::iterator"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10562,16): error C2065: test_case_infos_: необъявленный идентификатор
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10562,40): error C2675: унарный "++": "std::iterator" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10563,14): error C2100: недопустимое косвенное обращение
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10563,1): error C2440: delete: невозможно преобразовать "std::iterator" в "void*"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10563,15): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10601,10): error C2653: TestCaseInfoContainer: не является именем класса или пространства имен
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10601,47): error C2065: test_case_infos_: необъявленный идентификатор
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10601,45): error C2512: std::iterator: нет подходящего конструктора по умолчанию
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xutility(6048,54): message : см. объявление "std::iterator"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10602,16): error C2065: test_case_infos_: необъявленный идентификатор
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10602,40): error C2675: унарный "++": "std::iterator" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10603,8): error C2100: недопустимое косвенное обращение
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(10603,14): error C2039: "RegisterTests": не является членом "std::iterator".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xutility(6048): message : см. объявление "std::iterator"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(13778,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(13888): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator2<T1,T2>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(13893,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14020): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator3<T1,T2,T3>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14025,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14171): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator4<T1,T2,T3,T4>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14176,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14338): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator5<T1,T2,T3,T4,T5>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14344,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14524): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator6<T1,T2,T3,T4,T5,T6>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14530,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14727): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator7<T1,T2,T3,T4,T5,T6,T7>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14733,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14949): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator8<T1,T2,T3,T4,T5,T6,T7,T8>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(14955,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15188): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator9<T1,T2,T3,T4,T5,T6,T7,T8,T9>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15194,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15444): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator10<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15459,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15472): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder2<Generator1,Generator2>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15481,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15496): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder3<Generator1,Generator2,Generator3>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15506,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15523): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder4<Generator1,Generator2,Generator3,Generator4>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15533,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15552): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder5<Generator1,Generator2,Generator3,Generator4,Generator5>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15564,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15585): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder6<Generator1,Generator2,Generator3,Generator4,Generator5,Generator6>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15597,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15621): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder7<Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15635,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15661): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder8<Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7,Generator8>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15676,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15705): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder9<Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7,Generator8,Generator9>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15720,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(15752): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder10<Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7,Generator8,Generator9,Generator10>"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17185,8): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17185,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17185,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17185,37): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17966,14): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17966,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17966,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17966,64): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17971,20): error C2327: testing::TestResult::vector: не является именем типа, статическим членом или перечислителем
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17971,14): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17971,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17971,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17971,20): error C2086: const int testing::TestResult::vector: переопределение
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(17971,60): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18013,14): error C2327: testing::TestResult::vector: не является именем типа, статическим членом или перечислителем
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18013,8): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18013,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18013,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18013,49): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18015,14): error C2327: testing::TestResult::vector: не является именем типа, статическим членом или перечислителем
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18015,8): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18015,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18015,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18015,45): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18239,8): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18239,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18239,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18239,44): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18242,14): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18242,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18242,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18242,56): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18320,14): error C2327: testing::TestCase::vector: не является именем типа, статическим членом или перечислителем
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18320,8): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18320,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18320,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18320,41): error C2238: непредвиденные лексемы перед ";"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18324,14): error C2327: testing::TestCase::vector: не является именем типа, статическим членом или перечислителем
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18324,8): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\set(23): message : см. объявление "std"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18324,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18324,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Laba_alg\Laba_Arithmetic\gtest\gtests.h(18324,33): error C2238: непредвиденные лексемы перед ";"

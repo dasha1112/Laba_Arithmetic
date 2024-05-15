@@ -1,0 +1,8 @@
+#include "TArithmetic.h"
+#include "MyList.h"
+#include "ITable.h"
+#include "TPolinom.h"
+#include "HashTable.h"
+#include "TSortTable.h"
+#include "TTable.h"
+#include "TTable.h"
